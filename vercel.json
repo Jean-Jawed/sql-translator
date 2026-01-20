@@ -1,0 +1,8 @@
+{
+  "builds": [
+    {
+      "src": "api/translate.py",
+      "use": "@vercel/python"
+    }
+  ]
+}
